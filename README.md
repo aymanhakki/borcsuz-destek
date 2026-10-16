@@ -12,4 +12,4 @@ yalnızca App Store'un zorunlu tuttuğu iki genel sayfa bulunur.
 
 Her iki sayfa da Türkçe ve İngilizce içerir.
 
-İletişim: borcsuz.destek@gmail.com
+İletişim: support@hakkiayman.com
